@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "semi": true, // Sätt semikolon i slutet av varje rad
+  "tabWidth": 2, // Sätt bredden på en tab till två, ändra ev till fyra
+  "singleQuote": true, // Använd enkla citattecken istället för dubbla
+  "printWidth": 120, // 120 tecken 
+  "trailingComma": "es5", // Lägg till ett kommatecken efter det sista elementet i objekt och arrayer. Kan även välja "all" eller "none"  
+  "arrowParens": "avoid",
+  "endOfLine": "auto",
+}
+ 
