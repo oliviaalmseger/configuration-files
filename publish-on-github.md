@@ -82,7 +82,7 @@ import vueDevTools from 'vite-plugin-vue-devtools';
  
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/fed24d-arbetsmetodik-inl-2-vue-TeaGross/',
+  base: '/fed24d-arbetsmetodik-inl-2-vue-OliviaAlmseger/',
   plugins: [vue(), vueDevTools()],
   resolve: {
     alias: {
