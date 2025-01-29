@@ -15,6 +15,10 @@
 - [AI-bildverktyg] https://designer.microsoft.com/image-creator
 - [Palettverktyg] https://coolors.co/
 - [Gitmoji] https://gitmoji.dev/
+
+## Installera SSH nyckel 
+- ![SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
  
 ## Jenni Pullis tips
 - [Jennis repo-devlove](https://github.com/postmodernistx/devlove/blob/main/README.md) (A collection of useful resources)
